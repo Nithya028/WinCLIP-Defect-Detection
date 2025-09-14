@@ -1,0 +1,1 @@
+# WinCLIP-Defect-Detection
